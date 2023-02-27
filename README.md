@@ -11,14 +11,14 @@ Something™ is a basic application that alters the way a user's name is present
 
 ---
 
-### Getting Started
+### **Getting Started**
 
-#### Installation
+#### **Installation**
 
 In order to use this software the following conditions will need to be met:
 - Python version 3.3 or later will need to be downloaded and installed on the machine
 
-### How to Use
+### **How to Use**
 
 1. Run the application by adding the version-control-lab.ipynb into JupyterHub. You can then press the run button to run he code.
 2. Enter your first name by typing in to the terminal when prompted to.
