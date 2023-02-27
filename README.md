@@ -22,7 +22,29 @@ In order to use this software the following conditions will need to be met:
 
 ### **License**
 
-Please view our LICENSE.md for more information on our chosen License. This license was chosen due to its simplicity and allowance of others to use our code for a variety of projects, however it maintains a limitation of liability and does not offer a warranty. We want many to be able to use this code for whatever they deem it necessary as we believe in giving to the community, but we would also like to maintain legal protections over ourselves in regards to this code, warranties, and liabilities.
+MIT License
+
+Copyright (c) 2023 Caroline Curtis, Brandon Jabout
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+- This license was chosen due to its simplicity and allowance of others to use our code for a variety of projects, however it maintains a limitation of liability and does not offer a warranty. We want many to be able to use this code for whatever they deem it necessary as we believe in giving to the community, but we would also like to maintain legal protections over ourselves in regards to this code, warranties, and liabilities.
 
 ## **How to Contribute to this Project**
 
