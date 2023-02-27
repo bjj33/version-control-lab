@@ -1,11 +1,5 @@
-# version-control-lab
-Version control lab with Brandon Jabout and Caroline Curtis
-
-
-Description:
-This program takes the user's first name, takes a letter input from the user and removes that letter from the first name. If they input a letter that does not exist in the first name, they will get an error message and are asked to enter another letter. The new first name is then printed and converted to all capitals. Input for the user's last name is then taken and the new first name and the input last name are printed.
-
-# Something™
+Something™
+Developed by Brandon Jabout and Caroline Curtis
 
 Something™ is a basic application that alters the way a user's name is presented. This application allows the user to enter their first name. Once the first name has been captirued, it asks for the user to enter a letter that is in their name. Once they enter a letter that is in their name, the application will remove that letter from their name. The user will then be prompted to enter their last name where it will be displayed with their first name.
 
