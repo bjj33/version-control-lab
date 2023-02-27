@@ -2,7 +2,7 @@
 
 Developed by Brandon Jabout and Caroline Curtis
 
-Something™ is a basic application that alters the way a user's name is presented. This application allows the user to enter their first name. Once the first name has been captirued, it asks for the user to enter a letter that is in their name. Once they enter a letter that is in their name, the application will remove that letter from their name. The user will then be prompted to enter their last name where it will be displayed with their first name.
+Something™ is a basic application that alters the way a user's name is presented. This application allows the user to enter their first name. Once the first name has been captured, it asks for the user to enter a letter that is in their name. Once they enter a letter that is in their name, the application will remove that letter from their name. The user will then be prompted to enter their last name where it will be displayed with their first name.
 
 ---
 
@@ -22,7 +22,7 @@ In order to use this software the following conditions will need to be met:
 
 ### **License**
 
-[Enter text here]
+Please view our LICENSE.md for more information on our chosen License. This license was chosen due to its simplicity and allowance of others to use our code for a variety of projects, however it maintains a limitation of liability and does not offer a warranty. We want many to be able to use this code for whatever they deem it necessary as we believe in giving to the community, but we would also like to maintain legal protections over ourselves in regards to this code, warranties, and liabilities.
 
 ## **How to Contribute to this Project**
 
